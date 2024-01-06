@@ -10260,7 +10260,7 @@ section.resume-section .resume-section-content {
     outline: none;
 }
 textarea{
-    width: 100%;
+    width: 25%;
     height: 250px;
     background: transparent;
     border: 2px solid rgb(47, 47, 47);
